@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, music, videography, traveling
 - 🌱 I’m currently learning Deep learning, FPGA programming
 - 💞️ I’m looking to collaborate on embedded software
-- 📫 How to reach me a-k-m-sharif.kaiser@tu-ilmenau.de
+- 📫 How to reach me akmsharif.kaiser@gmail.com
 
 <!---
 sharifkaiser/sharifkaiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
